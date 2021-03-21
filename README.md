@@ -19,6 +19,6 @@ I'm From Palestine, Gaza
 
 ### Stats : 
 
-<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=pale-hacker&show_icons=true&locale=en" alt="pale-hacker" /></p>
+<p>&nbsp;<img align="middle" src="https://github-readme-stats.vercel.app/api?username=pale-hacker&show_icons=true&locale=en?theme=chartreuse-dark" alt="pale-hacker" /></p>
 
 -----------------------------------------
