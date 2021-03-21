@@ -6,7 +6,8 @@ I'm From Palestine, Gaza
 
 --------------------------------------------
 
-[![GitHub](https://github-readme-stats-abserari.vercel.app/api?username=Pale-Hacker&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/Pale-Hacker)
+![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
+
 
 --------------------------------------------
 
