@@ -19,7 +19,7 @@ I'm From Palestine, Gaza
 
 ### Languages : 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pale-hacker&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pale-hacker&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 -----------------------------------------
 
