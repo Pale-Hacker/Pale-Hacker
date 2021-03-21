@@ -6,7 +6,6 @@ I'm From Palestine, Gaza
 
 --------------------------------------------
 
-![Visitor Count](https://profile-counter.glitch.me/{username}/count.svg)
 
 
 --------------------------------------------
