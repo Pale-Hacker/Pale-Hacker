@@ -10,13 +10,6 @@ I'm From Palestine, Gaza
 
 -----------------------------------------
 
-<h3 align="middle"> Connect with me : </h3>
-<p align="middle">
-<a href="https://www.instagram.com/palehacker/" target="blank"><img align="middle" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="palehacker" height="30" width="40" /></a>
-</p>
-
------------------------------------------
-
 ### Languages : 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pale-hacker&layout=compact&theme=chartreuse-dark)](#)
